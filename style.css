@@ -1,0 +1,57 @@
+body{
+	font-family: 'Tajawal', sans-serif;
+		font-family: 'Kavivanar', cursive;
+
+	background:url(1.jpeg);
+}
+
+.Titulo h1{
+text-align:center;
+}
+
+.botones a{
+    
+    text-decoration: none;
+    background-color: #3d961c;
+    font-size: 50px;
+    color: white;
+    border: solid #1c9691 5px;
+    	width:200px;
+    	height:200px;
+
+}
+
+.b1{
+
+position:relative;
+top:2em;
+
+}
+
+.b2{
+
+	position:relative;
+	right:150px;
+	top:8em;
+}
+
+.b3{
+		position:relative;
+	top:150px;
+}
+
+.b4{
+
+position:relative;
+bottom:55px;
+left:1350px;
+	
+
+}
+
+.b5{
+
+	position:relative;
+	left:1150px;
+	top:5em;
+}

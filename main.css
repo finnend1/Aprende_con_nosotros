@@ -1,0 +1,22 @@
+body, html{
+
+background:url(https://images.pexels.com/photos/533930/pexels-photo-533930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+
+}
+
+.z{
+position:relative;
+top:100px;
+}
+
+a{
+	text-decoration: none;
+    background-color: #e2ae46;
+    font-size: 50px;
+    color: white;
+    border: solid #1c9691 5px;
+    	width:200px;
+    	height:200px;
+
+
+}
